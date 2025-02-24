@@ -57,4 +57,5 @@ or for large queries you could use the custom visualization tool
 ## Contributors
 * Nikolaos Giarelis (giarelis@ceid.upatras.gr)
 * Nikos Kanakaris (nkanakaris@upnet.gr)
+* Ilias Siachos (ilias.siachos@ac.upatras.gr)
 * Nikos Karacapilidis (karacap@upatras.gr)
